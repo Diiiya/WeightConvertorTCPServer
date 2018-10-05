@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Convertor3">
+      <HintPath>..\..\Convertor3\Convertor3\bin\Debug\netcoreapp2.1\Convertor3.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
